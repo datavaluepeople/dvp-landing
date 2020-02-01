@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>chat_ico</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sketch_C" transform="translate(-1279.000000, -123.000000)" fill="#131F21" fill-rule="nonzero">
+            <path d="M1294,153 L1282.6,153 L1282.6,147.999783 C1282.6,147.838696 1282.5454,147.683478 1282.4458,147.563478 C1280.224,144.882391 1279,141.48587 1279,138 C1279,129.72913 1285.729,123 1294,123 C1302.271,123 1309,129.72913 1309,138 C1309,146.271522 1302.271,153 1294,153 Z" id="chat_ico"></path>
+        </g>
+    </g>
+</svg>
